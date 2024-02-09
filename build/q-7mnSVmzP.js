@@ -1,0 +1,1 @@
+import{m as o}from"./q-tZUBM32s.js";const n="_hero_1dhe1_1",l={hero:n,"hero-image":"_hero-image_1dhe1_11","button-group":"_button-group_1dhe1_27"},t=()=>o("div",null,{class:["container",l.hero]},[o("p",null,{id:"automation"},null,3,null),o("p",null,null,"consulting@q2computing.com",3,null)],3,"nG_0");export{t as s_fle1EaVOup8};
