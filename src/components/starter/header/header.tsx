@@ -1,5 +1,4 @@
 import { component$ } from "@builder.io/qwik";
-import { q2logo } from "../icons/q2logo";
 import styles from "./header.module.css";
 
 export default component$(() => {
