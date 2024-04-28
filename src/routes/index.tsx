@@ -16,7 +16,7 @@ export const head: DocumentHead = {
   meta: [
     {
       name: "description",
-      content: "Qwik site description",
+      content: "Q2-Computing offers comprehensive, on-demand computational consulting support services to our clients.",
     },
   ],
 };
