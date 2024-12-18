@@ -4,14 +4,6 @@
   justify-content: space-between;
 }
 
-.logo {
-  display: inline-flex;
-}
-
-.logo a {
-  display: block;
-}
-
 .header ul {
   margin: 0;
   padding: 0;
@@ -45,12 +37,12 @@
   padding-top: 2rem;
 }
 
-.button {
-  display: inline-flex;
+.header button {
+  background-color: lightcoral;
+  border-radius: 2em;
 }
 
-@media (min-width: 450px) {
-  .header li {
-    display: inline-block;
-  }
+.header button:hover {
+  background-color: black;
+  color: darkorange;
 }

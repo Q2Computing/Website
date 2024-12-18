@@ -6,7 +6,11 @@ export default component$(() => {
     <>
       <header class={styles.header}>
         <div id="logo">Q2 Computing</div>
-        <div id="button">Research</div>
+        <ul>
+          <li>
+            <div class="button" id="button">Research</div>
+          </li>
+        </ul>
       </header>
     </>
   );
