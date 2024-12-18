@@ -8,7 +8,7 @@ export default component$(() => {
         <div id="logo">Q2 Computing</div>
         <ul>
           <li>
-            <div class="button" id="button">Research</div>
+            <a class="button" id="button">Research</a>
           </li>
         </ul>
       </header>
