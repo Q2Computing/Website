@@ -1,0 +1,1 @@
+import{j as n,m as l,z as e}from"./q-tZUBM32s.js";const r="_wrapper_jbngp_1",u="_header_jbngp_7",a={wrapper:r,header:u},t=()=>n(e,{children:l("header",null,{class:a.header},[l("div",null,{id:"logo"},"Q2 Computing",3,null),l("ul",null,null,l("li",null,null,l("a",null,{class:"button",id:"button"},"Research",3,null),3,null),3,null)],3,null)},3,"CP_0");export{t as s_mBt9fIl89mc};
